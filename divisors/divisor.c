@@ -1,3 +1,5 @@
+//write a program that finds all the divisors of a number...
+
 #include <stdio.h>
 int main() {
 	int x, i;

@@ -1,3 +1,5 @@
+//factorial of n.....
+
 #include <stdio.h>
 int main(){
   int i, num, f = 1;

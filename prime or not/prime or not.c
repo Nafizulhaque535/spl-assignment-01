@@ -1,3 +1,5 @@
+//testing prime or not....
+
 #include <stdio.h>
 int main()
 {
@@ -8,7 +10,6 @@ int main()
 
     scanf("%d", &n);
 
-    // Iterate from 2 to n/2
     for (i = 2; i <= sqrt(n); i++) {
 
         // prime number condition
